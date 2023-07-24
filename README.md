@@ -39,7 +39,7 @@ Please install all necessary packages with
 ```bash
 yarn install
 ```
-
+Come on and take a free ride:
 Function signature for bZx flash loan
 ``` 
     function flashBorrow(
