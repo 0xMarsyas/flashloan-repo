@@ -35,7 +35,7 @@
 
 ## Documentation and Support
 
-Install all necessary packages with
+Please install all necessary packages with
 ```bash
 yarn install
 ```
